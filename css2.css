@@ -1,0 +1,46 @@
+
+.As{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.border{
+ height: 400px;
+ width: 400px;  
+ border-style: solid;
+border-width: 5px;
+border-color: blueviolet;
+}
+.rif{
+    text-align: center;
+    color: rgb(30, 150, 146);
+}
+.border2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(23, 112, 81);
+
+ }
+ 
+.rr{
+    text-align: center;
+    color: blueviolet;
+    }
+.margin1{
+  border: 5px solid rgb(32, 35, 172);
+  margin: 5px 2px 7px 10px;
+}
+.margin2{
+    border: 7px solid rgb(23, 112, 81);
+    margin:11px 4px 9px 17px;
+    color: rgb(255, 51, 153);
+}
+.padding{
+    border: 5px dotted ;
+    padding: 15px 20px 23px 27px;
+  
+}
+.rit{
+    width: 500px;
+    height: 500px;
+    border: solid 5px;
+   
+}
